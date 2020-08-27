@@ -1,0 +1,13 @@
+Assignment 1
+
+Bootstrap: styling (get their starter template getbootstrap.com starter template) and major components (buttons)
+Add to the list, remove from the list, pre-populated list (arrays)
+import JS (javascript) file: standard JS or Jquery
+
+Input, add button, remove button, select (list item for removal, checkbox)
+
+Remove one or multiple
+
+1.5 - 2 weeks to do this
+
+While on the page it should keep info
